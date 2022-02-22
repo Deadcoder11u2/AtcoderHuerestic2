@@ -1,4 +1,4 @@
-int score(string s) {
+int score() {
     int ans = 0;
     return ans;
 }
